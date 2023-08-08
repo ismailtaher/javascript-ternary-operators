@@ -1,2 +1,2 @@
 # javascript-ternary-operators
-Ternary Operators Concept &amp; Rock, Paper, Scissors using them
+Ternary Operators' Concept &amp; Rock, Paper, Scissors using them
